@@ -1,6 +1,6 @@
 # Proyecto Reloj_con_mas_clases
 
-Este proyecto implementa un sistema de simulaciÃ³n de un reloj digital en Java, dividido en mÃºltiples clases para representar sus distintos componentes. Permite visualizar el avance del tiempo en segundos, minutos o incluso horas, utilizando estructuras de control como `for`, `while` y `do-while`.
+Este proyecto implementa un sistema de simulación de un reloj digital en Java, dividido en múltiples clases para representar sus distintos componentes. Permite visualizar el avance del tiempo en segundos, minutos o horas, utilizando estructuras de control como `for`, `while` y `do-while`.
 
 ## Estructura del Proyecto
 
@@ -29,22 +29,22 @@ Reloj_con_mas_clases/
 ## Funcionalidades
 
 - **Esfera**: Muestra la hora actual en consola.
-- **Manecilla**: Representa una unidad de tiempo (horas, minutos o segundos) y se encarga de su incremento cÃ­clico.
+- **Manecilla**: Representa una unidad de tiempo (horas, minutos o segundos) y se encarga de su incremento cíclico.
 - **Mecanismo**: Controla el avance del tiempo segundo a segundo.
 - **Reloj**: Mantiene el estado de las manecillas y gestiona el avance de tiempo correctamente.
 - **Simulador**: Ejecuta simulaciones del reloj avanzando en tiempo real o acelerado.
 - **Validador**: Recoge y valida entradas del usuario desde la consola.
-- **MenÃº de Usuario**: Permite seleccionar entre distintas simulaciones:
-  - SimulaciÃ³n de 15 segundos (`for`)
-  - SimulaciÃ³n de 15 minutos (`while`)
-  - SimulaciÃ³n de 15 horas (`do-while`)
+- **Menú de Usuario**: Permite seleccionar entre distintas simulaciones:
+  - Simulación de 15 segundos (`for`)
+  - Simulación de 15 minutos (`while`)
+  - Simulación de 15 horas (`do-while`)
 
 ## Requisitos
 
 - **Java JDK 8 o superior**
 - **IDE recomendado**: NetBeans, IntelliJ IDEA o Eclipse
 
-## CompilaciÃ³n y EjecuciÃ³n
+## Compilación y Ejecución
 
 1. Clona el repositorio:
 
