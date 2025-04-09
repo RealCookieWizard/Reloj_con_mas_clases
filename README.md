@@ -61,9 +61,9 @@ javac Reloj_con_mas_clases/**/*.java
 java Reloj_con_mas_clases.Main
 ```
 
-## CrÃ©ditos
+## Créditos
 
-Proyecto desarrollado por HÃ©ctor Santiago GonzÃ¡lez Baltierra  
+Proyecto desarrollado por Héctor Santiago González Baltierra  
 No. de cuenta: 322604322  
 
-Este proyecto es de cÃ³digo abierto bajo la licencia MIT.
+Este proyecto es de código abierto bajo la licencia MIT.
