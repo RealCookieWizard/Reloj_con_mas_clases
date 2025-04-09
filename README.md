@@ -6,24 +6,20 @@ Este proyecto implementa un sistema de simulación de un reloj digital en Java, 
 
 ```
 Reloj_con_mas_clases/
-â”‚
-â”œâ”€â”€ componentes/
-â”‚   â”œâ”€â”€ Esfera.java
-â”‚   â”œâ”€â”€ Manecilla.java
-â”‚   â”œâ”€â”€ Mecanismo.java
-â”‚   â””â”€â”€ Reloj.java
-â”‚
-â”œâ”€â”€ herramientas/
-â”‚   â”œâ”€â”€ CrearReloj.java
-â”‚   â”œâ”€â”€ Simulador.java
-â”‚   â””â”€â”€ Validador.java
-â”‚
-â”œâ”€â”€ interfaz/
-â”‚   â”œâ”€â”€ Consola.java
-â”‚   â””â”€â”€ Menu.java
-â”‚
-â”œâ”€â”€ Main.java
-â””â”€â”€ README.md
+- componentes/
+ - Esfera.java
+ - Manecilla.java
+ - Mecanismo.java
+ - Reloj.java
+- herramientas/
+ - CrearReloj.java
+ - Simulador.java
+ - Validador.java
+- interfaz/
+ - Consola.java
+ - Menu.java
+- Main.java
+- README.md
 ```
 
 ## Funcionalidades
